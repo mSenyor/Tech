@@ -1,0 +1,37 @@
+what is this about:
+
+this is about being a technician. how to manage yourself, your time, and your tasks in a safe and efficient manner while regarding the different aspects of the projects and everyone involved.
+
+
+
+who is this for:
+
+this is meant for technicians weather they're working alone, as part of a team, or even managing a team.
+
+
+
+why is this valid or relevant:
+
+some aspects of this are a matter of personal opinion and some aspects of this are just facts that can be regarded of ignored but would still exist and effect your work.
+
+
+
+the parts of this book:
+
+ - who is a technician?
+
+ - what are the situation this text applies to?
+
+ - what are the principles guiding this text?
+	
+	what are the facts?
+	what are the work values applied?
+	what are the assumptions about the job/worker/others involved?
+
+ - a breakdown of the different aspects of being a tech
+
+ - a breakdown of the different elements a task/challange
+
+ - how to manage yourself?
+
+ - how to manage a task?
